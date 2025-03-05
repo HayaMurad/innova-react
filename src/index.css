@@ -1,0 +1,55 @@
+
+.Registration-area {
+
+ padding: 10px;
+color: white;
+ font-size: 16px;
+}
+.Registration-area a{
+text-decoration: none;
+color: white;
+
+}
+.footer-img {
+  height: 100%;
+}
+.gri {
+  color: #000000;
+  text-decoration: none;
+}
+.gri:hover {
+  color: #383139;
+  text-decoration: underline;
+}
+
+/* ////////home header */
+
+.headerhome{
+
+  background: linear-gradient(rgba(1, 1, 1, 0.2), rgb(50, 50, 50)), url(./assets/header1.jpg);
+  
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  background-position: 50% 0px;
+  height: 800px;
+margin-top: -100px;
+
+}
+.headertitle{
+font-size: 100px;
+color: white;
+text-align: center;
+
+
+}
+.loo{
+
+color:   #6f42c1;
+
+}
+.svghome2{
+
+margin-left: 100px;
+
+}
