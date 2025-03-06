@@ -1,12 +1,19 @@
+
+import Serviceheader from "../componnents1/Serviceheader";
+import Service2 from "../componnents1/Service2";
+
+import Service3 from "../componnents1/Home4";
+
 function App4() {
    
   
     return (
-<header>
-    <div>
-        <h1>hhhgggoppp</h1>
-    </div>
-</header>
+<>
+<Serviceheader/>
+<Service2/>
+<Service3/>
+
+</>
 
 
     );

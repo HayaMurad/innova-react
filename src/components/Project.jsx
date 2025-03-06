@@ -1,12 +1,17 @@
+
+import Projectheader from "../componnents1/Projectheader";
+import Project1 from "../componnents1/Project1";
+import Project3 from "../componnents1/Home4";
 function App3() {
    
   
     return (
-<header>
-    <div>
-        <h1>hhhggg</h1>
-    </div>
-</header>
+<>
+<Projectheader/>
+<Project1/>
+<Project3/>
+
+</>
 
 
     );

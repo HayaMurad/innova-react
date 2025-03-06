@@ -5,13 +5,13 @@
 
 function Footer (){
     return(
-        <footer className="footer mt-5 footer-img w-100 fixed" >
+        <footer className="footer mt-5 footer-img w-100 pb-5" >
         <div className="container">
           <div className="row pb-2 ">
             <div className="col-md-1"></div>
         <div className="col-md-5 mt-5">
 <h4>About Us</h4>
-<p className="mt-5">Lorem ipsum dolor sit amet <br /> consectetur, adipisicing elit. Alias <br /> nihil numquam aspernatur inventore <br /> sint eligendi nostrum!</p>
+<p className="mt-3 text-dark par ">Lorem ipsum dolor sit amet <br /> consectetur, adipisicing elit. Alias <br /> nihil numquam aspernatur inventore <br /> sint eligendi nostrum!</p>
 
 
         </div>
@@ -47,7 +47,7 @@ function Footer (){
           </div>
           <div className="row">
         <div className="col-md-12 mt-5">
-              <p className="text-center">Copyright ©2025 All rights reserved | This template is made with  by</p>
+              <p className="text-center text-dark par ">Copyright ©2025 All rights reserved | This template is made with  by</p>
             </div>
 
 
